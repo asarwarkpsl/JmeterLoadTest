@@ -2,4 +2,4 @@
 #
 #
 # jmeter.sh 
-sh jmeter.sh -n -t text.jmeter
+sh /opt/apache-jmeter/bin/jmeter.sh -n -t /opt/apache-jmeter/bin/text.jmx

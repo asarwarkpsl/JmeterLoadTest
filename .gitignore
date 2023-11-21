@@ -4,3 +4,9 @@ printable_docs
 Dockerfile
 Notice
 README.md
+docker-compose-grafana.yaml
+docker-compose-influxdb.yaml
+Dockerfile-jmeter-alpine
+influx.env
+.dockerignore
+bin/jmeter.log

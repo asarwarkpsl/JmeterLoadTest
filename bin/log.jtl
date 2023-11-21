@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1699253349856,1264,Registration,200,OK,Thread Group 1-1,text,true,,3873,750,1,1,https://testemsmobileservices.ecp.gov.pk/api/polling-officer/registration,1264,0,357
+1699253351144,693,Fetch-constituencies,200,OK,Thread Group 1-1,text,true,,1419,1620,1,1,https://testemsmobileservices.ecp.gov.pk/api/fetch-constituencies,693,0,0
+1699253351846,323,Form45-National Assembly,400,Bad Request,Thread Group 1-1,text,false,,599,445417,1,1,https://testemsmobileservices.ecp.gov.pk/api/store-RmsUploadFormFortifify,320,0,0
